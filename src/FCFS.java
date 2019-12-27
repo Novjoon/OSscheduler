@@ -1,4 +1,6 @@
 public class FCFS implements SchedulingAlgorithm {
+
+	//FCFS알고리즘
 	// 총 시간
 	int total_time = 0;
 	// 프로세스 갯수
